@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Pidchanard Mueanson banner" width="100%" />
 
 <a href="https://github.com/nubnibjung">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hi+there!+I'm+Pidchanard+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+Tailwind+CSS;Building+clean%2C+user-centric+web+UIs+%E2%9C%A8;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hi+there!+I'm+Pidchanard+%F0%9F%91%8B;Frontend+Developer+%40+Lodash+Thailand+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Go+%7C+Rust;Building+clean%2C+user-centric+web+UIs+%E2%9C%A8;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,13 @@
 
 </div>
 
-IT graduate from **Kasetsart University (Sriracha Campus)** with a year of internship experience at **Gofive**, working on CRM and e-commerce platforms. I enjoy turning user requirements into clean, responsive interfaces, and I care about details like dark mode, smooth UI behavior and maintainable code.
+Frontend Developer at **Lodash Thailand**, based in Bangkok. I graduated in Information Technology from **Kasetsart University (Sriracha Campus)** and previously interned at **Gofive**, working on CRM and e-commerce platforms. I enjoy turning user requirements into clean, responsive interfaces, and I care about details like dark mode, smooth UI behavior and maintainable code.
+
+<div align="center">
+
+[![Visit my portfolio](https://img.shields.io/badge/🌐_Visit_my_portfolio-pidchanard--mueanson.vercel.app-FF7EB6?style=for-the-badge&logo=vercel&logoColor=white)](https://pidchanard-mueanson.vercel.app)
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="divider">
 
@@ -50,15 +56,15 @@ IT graduate from **Kasetsart University (Sriracha Campus)** with a year of inter
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,react,vue,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,ts,angular,js,html,css,tailwind,vue,figma&perline=9" />
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,php,py,mysql,postgres,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,rust,nodejs,dotnet,php,py,mysql,postgres&perline=8" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,androidstudio&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode,androidstudio&perline=6" />
 
 </div>
 
@@ -69,6 +75,12 @@ IT graduate from **Kasetsart University (Sriracha Campus)** with a year of inter
 <table>
 <tr>
 <td width="50%" valign="top">
+
+### 💼 Lodash Thailand
+**Frontend Developer** · Current
+
+- Building web interfaces with **React**, alongside **Go**, **Rust** and **Docker** in the stack
+- 6 merged pull requests in [lodashventure/ilovepdf](https://github.com/lodashventure/ilovepdf)
 
 ### 💼 Gofive
 **Internship Developer** · Apr 2025 – Apr 2026
@@ -88,9 +100,8 @@ Sriracha Campus · GPA 3.36
 - Good Study Award
 - Very Good Oral Presentation Award
 
-### 🤝 Open Source
-- 6 merged pull requests in [lodashventure/ilovepdf](https://github.com/lodashventure/ilovepdf)
-- 🦈 **Pull Shark** achievement
+### 🏆 Achievements
+- 🦈 **Pull Shark** on GitHub
 
 </td>
 </tr>
@@ -204,7 +215,7 @@ Other work in progress and experiments, including **cloud-cut-pidchanard** and *
 
 <br/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle"> <b>Open to Frontend Developer opportunities</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle"> <b>Let's build something great together</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a1f,50:6b1d47,100:b03a76&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
 
