@@ -117,13 +117,18 @@ _ใส่คำอธิบายโปรเจกต์ที่นี่_
 
 <div align="center">
 
-<img width="48%" src="profile-summary-card-output/radical/0-profile-details.svg" alt="profile details" />
-<img width="48%" src="profile-summary-card-output/radical/3-stats.svg" alt="stats" />
+<img width="82%" src="profile-summary-card-output/radical/0-profile-details.svg" alt="profile details" />
 
-<img width="48%" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" />
-<img width="48%" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="most commit language" />
-
-<img width="60%" src="profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" />
+<table>
+<tr>
+<td align="center" valign="middle"><img width="420" src="profile-summary-card-output/radical/3-stats.svg" alt="stats" /></td>
+<td align="center" valign="middle"><img width="420" src="profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" /></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><img width="420" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" /></td>
+<td align="center" valign="middle"><img width="420" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="most commit language" /></td>
+</tr>
+</table>
 
 </div>
 
