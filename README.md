@@ -3,13 +3,14 @@
 <img src="assets/banner.svg" alt="Pidchanard Mueanson banner" width="100%" />
 
 <a href="https://github.com/nubnibjung">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Pidchanard;Kasetsart+University+%F0%9F%8E%93;TypeScript+%7C+React+%7C+PHP+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+awesome+together+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=Hi+there!+I'm+Pidchanard+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Angular+%7C+TypeScript+%7C+Tailwind+CSS;Building+clean%2C+user-centric+web+UIs+%E2%9C%A8;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 </a>
+
 <br/>
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" align="absmiddle"> <b>Hi, I'm Pidchanard — welcome to my little corner of GitHub</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="30" align="absmiddle">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nubnibjung&label=PROFILE%20VIEWS&color=FF7EB6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=nubnibjung&label=PROFILE%20VIEWS&color=ff7eb6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/nubnibjung?style=for-the-badge&logo=github&color=6b1d47&labelColor=2d0a1f)
 ![Stars](https://img.shields.io/github/stars/nubnibjung?style=for-the-badge&logo=starship&color=b03a76&labelColor=2d0a1f)
 
@@ -27,14 +28,17 @@
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="52" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="52" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="52" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="52" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="52" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="52" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="52" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="52" />&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="52" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="52" />&nbsp;
 
 </div>
+
+IT graduate from **Kasetsart University (Sriracha Campus)** with a year of internship experience at **Gofive**, working on CRM and e-commerce platforms. I enjoy turning user requirements into clean, responsive interfaces, and I care about details like dark mode, smooth UI behavior and maintainable code.
 
 <img src="assets/divider.svg" width="100%" alt="divider">
 
@@ -44,21 +48,53 @@
 
 <img src="assets/ticker.svg" alt="tech ticker" width="100%" />
 
-**Languages**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,html,css,py&perline=6" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,react,vue,figma&perline=9" />
 
-**Frameworks & Libraries**
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite,express&perline=6" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,php,py,mysql,postgres,firebase&perline=8" />
 
-**Database, Tools & Cloud**
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vercel,figma,vscode,postman,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,androidstudio&perline=6" />
 
 </div>
 
-> 💡 แก้รายการไอคอนได้ที่พารามิเตอร์ `i=` ดูชื่อทั้งหมดที่ [skillicons.dev](https://skillicons.dev)
+<img src="assets/divider.svg" width="100%" alt="divider">
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="32" height="32" align="absmiddle"> &nbsp;Experience & Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Gofive
+**Internship Developer** · Apr 2025 – Apr 2026
+
+- Enhanced CRM and e-commerce platforms with **Angular** and **Tailwind CSS** in an Agile (Scrum) team
+- Implemented **Dark Mode**, fixed UI jitter and added interactive feedback components
+- Fixed rendering bugs, data validation logic and HTML formatting issues
+- Migrated legacy components to a **Micro Frontend** architecture aligned with the Design System
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Kasetsart University
+**B.Sc. Information Technology** · Jun 2022 – Apr 2026
+Sriracha Campus · GPA 3.36
+
+- Good Study Award
+- Very Good Oral Presentation Award
+
+### 🤝 Open Source
+- 6 merged pull requests in [lodashventure/ilovepdf](https://github.com/lodashventure/ilovepdf)
+- 🦈 **Pull Shark** achievement
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="divider">
 
@@ -68,44 +104,47 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ cloud-cut-pidchanard
-_ใส่คำอธิบายโปรเจกต์ที่นี่_
+### 🍦 ScoopHub · 2025
+E-commerce ice cream platform with a dynamic product catalog, shopping cart, order tracking and inventory / user / transaction database.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubnibjung/cloud-cut-pidchanard)
+[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pidchanard/icecream_shop)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Commonfee-management
-ระบบจัดการค่าส่วนกลาง (fork + contribute)
+### 🏡 VillaReserve · 2024
+Village facility booking system with real-time scheduling, automatic conflict resolution to prevent double bookings, and an admin dashboard for quotas and approvals.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubnibjung/Commonfee-management)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 The-Nomad-Space-test
-_ใส่คำอธิบายโปรเจกต์ที่นี่_
+### 💧 Namkub · 2023
+Full-stack water distribution e-commerce platform with a responsive UI, real-time cart, multi-step checkout, Reactive Forms validation and Angular Services.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubnibjung/The-Nomad-Space-test)
+[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nantanatorn/NAMKUB-Store)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍦 icecream_shop
-เว็บร้านไอศกรีม
+### 🔭 More on GitHub
+Other work in progress and experiments, including **cloud-cut-pidchanard** and **The-Nomad-Space-test**.
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pidchanard/icecream_shop)
+[![Repos](https://img.shields.io/badge/All_Repositories-FF7EB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nubnibjung?tab=repositories)
 
 </td>
 </tr>
@@ -144,20 +183,6 @@ _ใส่คำอธิบายโปรเจกต์ที่นี่_
 
 </div>
 
-> 🐍 งู snake จะแสดงหลังจากเพิ่มไฟล์ `.github/workflows/snake.yml` (แนบมาด้วย) แล้วรัน workflow ครั้งแรก
-
-<img src="assets/divider.svg" width="100%" alt="divider">
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f337/512.gif" width="32" height="32" align="absmiddle"> &nbsp;Roadmap 2026
-
-- [x] 🌱 เริ่มทำโปรเจกต์เว็บแรก
-- [x] 🦈 ได้ achievement **Pull Shark**
-- [x] 🌐 ทำเว็บพอร์ตโฟลิโอขึ้น Vercel
-- [ ] 🔥 ทำโปรเจกต์ Full-Stack ให้จบ 1 ตัว
-- [ ] 🧠 เรียนรู้ System Design และ Cloud
-- [ ] 🤝 Contribute open source ให้ครบ 10 PR
-- [ ] 💼 สมัครฝึกงาน
-
 <img src="assets/divider.svg" width="100%" alt="divider">
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" width="32" height="32" align="absmiddle"> &nbsp;Random Dev Quote
@@ -179,7 +204,7 @@ _ใส่คำอธิบายโปรเจกต์ที่นี่_
 
 <br/>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle"> <b>ถ้าชอบโปรไฟล์นี้ กดดาวให้ repo ได้เลยนะ</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle"> <b>Open to Frontend Developer opportunities</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif" width="26" align="absmiddle">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a1f,50:6b1d47,100:b03a76&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
 
