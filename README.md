@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d0a1f,50:6b1d47,100:b03a76&height=260&section=header&text=PIDCHANARD%20MUEANSON&fontSize=46&fontColor=FFC2DE&animation=twinkling&fontAlignY=38&desc=✦%20nubnibjung%20✦%20Full-Stack%20Developer%20in%20the%20making%20✦&descAlignY=60&descSize=16&stroke=FF9ECD&strokeWidth=1" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d0a1f,50:6b1d47,100:b03a76&height=260&section=header&text=PIDCHANARD%20MUEANSON&fontSize=46&fontColor=FFC2DE&animation=twinkling&fontAlignY=38&desc=✦%20nubnibjung%20✦%20Frontend%%20Developer%20in%20the%20making%20✦&descAlignY=60&descSize=16&stroke=FF9ECD&strokeWidth=1" alt="header" width="100%" />
 
 <a href="https://github.com/nubnibjung">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Pidchanard;Kasetsart+University+%F0%9F%8E%93;TypeScript+%7C+React+%7C+PHP+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Let's+build+something+awesome+together+%E2%9C%A8" alt="Typing SVG" />
