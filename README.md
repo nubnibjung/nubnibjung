@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/34513701/README.3.md)
 <div align="center">
 
 <img src="assets/banner.svg" alt="Pidchanard Mueanson banner" width="100%" />
